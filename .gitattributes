@@ -1,0 +1,3 @@
+*.sh eol=lf
+mvnw eol=lf
+mvnw.cmd eol=crlf
